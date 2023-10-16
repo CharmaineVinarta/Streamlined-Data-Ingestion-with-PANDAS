@@ -8,11 +8,6 @@ Data acquisition using pandas in Python, extracting data from various sources li
 - Try to mastering the skill of curating a bespoke dataset by amalgamating information from a diverse array of sources.
 
 # Datasets
-data.db
-fcc-new-coder-survey.xlsx
-vt_tax_data_2016.csv
-
-# Datasets# Datasets
 
 1. [data.db](https://github.com/CharmaineVinarta/Streamlined-Data-Ingestion-with-PANDAS/blob/main/data.db) 
 2. [fcc-new-coder-survey.xlsx](https://github.com/CharmaineVinarta/Streamlined-Data-Ingestion-with-PANDAS/blob/main/fcc-new-coder-survey.xlsx) 
