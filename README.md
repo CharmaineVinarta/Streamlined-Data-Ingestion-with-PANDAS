@@ -12,8 +12,8 @@ data.db
 fcc-new-coder-survey.xlsx
 vt_tax_data_2016.csv
 
-# Datasets
+# Datasets# Datasets
 
-1. [data.db](CharmaineVinarta/Streamlined-Data-Ingestion-with-PANDAS/data.db) 
-2. [fcc-new-coder-survey.xlsx](CharmaineVinarta/Streamlined-Data-Ingestion-with-PANDAS/fcc-new-coder-survey.xlsx) 
-3. [vt_tax_data_2016.csv](CharmaineVinarta/Streamlined-Data-Ingestion-with-PANDAS/vt_tax_data_2016.csv)
+1. [data.db](https://github.com/CharmaineVinarta/Streamlined-Data-Ingestion-with-PANDAS/blob/main/data.db) 
+2. [fcc-new-coder-survey.xlsx](https://github.com/CharmaineVinarta/Streamlined-Data-Ingestion-with-PANDAS/blob/main/fcc-new-coder-survey.xlsx) 
+3. [vt_tax_data_2016.csv](https://github.com/CharmaineVinarta/Streamlined-Data-Ingestion-with-PANDAS/blob/main/vt_tax_data_2016.csv)
