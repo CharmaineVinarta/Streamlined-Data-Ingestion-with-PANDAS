@@ -7,4 +7,13 @@ Data acquisition using pandas in Python, extracting data from various sources li
 - Nuances of refining data imports, ensuring to retrieve only the necessary information and effectively tackle issues like incorrect data types. 
 - Try to mastering the skill of curating a bespoke dataset by amalgamating information from a diverse array of sources.
 
-  
+# Datasets
+data.db
+fcc-new-coder-survey.xlsx
+vt_tax_data_2016.csv
+
+# Datasets
+
+1. [data.db](link-to-data.db) 
+2. [fcc-new-coder-survey.xlsx](link-to-fcc-new-coder-survey.xlsx) 
+3. [vt_tax_data_2016.csv](link-to-vt_tax_data_2016.csv)
